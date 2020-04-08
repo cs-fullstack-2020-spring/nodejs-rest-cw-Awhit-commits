@@ -1,6 +1,7 @@
 # nodejs-rest-cw
 node.js REST classwork
-
+You should have left a version of the basics requirements commented out in your code cause your challenge doesn't work. BUT nice good for attempting the challenge (even tho you stole Kevin's code)
+### Score : 4/5
 # In your web service
 - Create endpoints using RESTful syntax to support the 4 CRUD operations for a `blogpost` resource
   - The endpoints should accept and/or return JSON user objects with the following properties:
