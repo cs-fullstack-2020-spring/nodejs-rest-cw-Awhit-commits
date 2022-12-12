@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/cs-fullstack-2020-spring/nodejs-rest-cw-Awhit-commits#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.3"
   }
 }
